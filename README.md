@@ -13,6 +13,9 @@ ___
 -   Plant Easily ([link](https://www.nexusmods.com/valheim/mods/2350))
 -   Real Clock Mod ([link](https://www.nexusmods.com/valheim/mods/489))
 
+#### Download:
+-   Get the latest release from the [Releases page](https://github.com/LeBanes/valheim-mods/releases).
+
 #### Installation:
 -   Extract the BepInEx folder within this zip into your `Steam\steamapps\common\Valheim` directory.
 -   Replace/Overwrite any duplicate files if prompted.
