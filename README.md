@@ -1,5 +1,5 @@
 
-### Valheim Mod Pack v4.0
+### Valheim Mod Pack v4.0.0
 ___
 #### Contents:
 -   **NEW**: Valheim Plus - unofficial community fix ([link](https://www.nexusmods.com/valheim/mods/2323))
