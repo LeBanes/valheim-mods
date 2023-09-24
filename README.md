@@ -25,5 +25,11 @@ Real Clock Mod ([link](https://www.nexusmods.com/valheim/mods/489))<br>
 Get the latest release from the [Releases page](https://github.com/LeBanes/valheim-mods/releases).
 
 ## Installation:
--   Extract the BepInEx folder within this zip into your `Steam\steamapps\common\Valheim` directory.
+**If no mods were removed:**
+-   Extract the new `BepInEx` folder within this zip into your `Steam\steamapps\common\Valheim` directory.
 -   Replace/Overwrite any duplicate files if prompted.
+
+**If mods were removed:**
+-   Delete the `config` and `plugins` folders from your current `BepInEx` folder.
+-   Extract the new `BepInEx` folder within this zip into your `Steam\steamapps\common\Valheim` directory.
+
