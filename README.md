@@ -24,7 +24,7 @@
 <br>
 
 ## Current Contents:
-Valheim Plus - unofficial community fix ([link](https://www.nexusmods.com/valheim/mods/2323))
+Valheim Plus - unofficial community fix ([link](https://www.nexusmods.com/valheim/mods/2323))<br>
 Better Wisplight ([link](https://www.nexusmods.com/valheim/mods/2103))<br>
 Better Trader Remake ([link](https://valheim.thunderstore.io/package/Digitalroot/Better_Trader_Remake/))<br>
 Forsaken Powers Plus ([link](https://www.nexusmods.com/valheim/mods/2067))<br>
